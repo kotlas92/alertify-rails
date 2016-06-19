@@ -1,7 +1,7 @@
 module Alertify #:nodoc:
   module Rails #:nodoc:
-    VERSION = "0.2.0"
-    ALERTIFY_VERSION = "0.3.15"
+    VERSION = "1.0.10"
+    ALERTIFY_VERSION = "1.0.10"
 
   end
 end
